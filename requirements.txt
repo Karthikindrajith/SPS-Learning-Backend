@@ -1,12 +1,7 @@
-asgiref==3.12.1
 Django==4.2.24
-django-cors-headers==4.9.0
-django-jazzmin==3.0.5
-djangorestframework==3.18.0
-sqlparse==0.5.3
-tzdata==2026.3
-gunicorn
-dj-database-url
-psycopg2-binary
-whitenoise
+djangorestframework==3.13.1
+django-cors-headers
+django-jazzmin
 PyMySQL
+gunicorn
+whitenoise
